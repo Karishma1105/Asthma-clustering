@@ -20,7 +20,7 @@ code explanation
 
 
 # Overview
-This repository contains code and documentation for an asthma clustering project. The goal of this project is to analyze asthma patient data and apply clustering techniques to group patients based on their asthma-related characteristics. Clustering helps us identify patterns and subgroups within the asthma patient population, which can be valuable for personalized healthcare and research purposes. Using intel packages and libraries the project has been created
+This repository contains code and documentation for an asthma clustering project. The goal of this project is to analyze asthma patient data and apply clustering techniques to group patients based on their asthma-related characteristics. Clustering helps us identify patterns and subgroups within the asthma patient population, which can be valuable for personalized healthcare and research purposes. 
 
 
 # Background
